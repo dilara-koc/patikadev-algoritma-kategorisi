@@ -21,7 +21,7 @@ Bu adımlar ile elemanların sırasına uygun olarak listeye tek tek eklenmesi g
 
 * Time-Compexity'ye göre "18" sayısı average case'e dahildir. Eğer en baştaki (en küçük) eleman olsaydı best case olacak ve time-complexity'si O(n) olacaktı. Eğer en sondaki (en büyük) eleman olsaydı worst case olacak ve time-complexity'si O(n^2) olacaktı. 
 
-* 18 sayısı 6 elemanlık sayı dizisinin 4. sırasındaki elemanı olduğundan average case ve time-compltexty'si:
+* 18 sayısı 6 elemanlık sayı dizisinin 4. sırasındaki elemanı olduğundan average case ve time-complexity'si:
 
 > O(n^2)
 > =O(6^2)
